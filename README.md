@@ -1,25 +1,24 @@
-# labmeeting
-files for giving lab meeting
-
-8/29/17 lab meeting 
-
--- sharing results on github
+# labmeeting 8/29/17
+Using Github for sharing research
 
 ### Outline
 -- Review of github.  -- version control, sharing files, connecting folders on seperate machines
-
-
--- Possilb uses (Karl's make a full webpage)
+-- Possible uses (Karl's make a full webpage)
 -- Display results in README.md (share and store data files)
 
 -- AP's examples
   - wild mouse catching
+  
   - MLH1 stats
   - macro pipeline
 
 #### Discussion
-
   - problems / barriers in using
-  - aspirations / dream suses
+  - aspirations / dream uses
+  - potential set backs (too many repos to keep track of..)
   
-  
+### Teaching Objectives
+ - README.md as a report page
+ - insert images in md page
+ - link together md and txt files
+ - 
