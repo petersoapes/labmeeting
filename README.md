@@ -24,11 +24,13 @@ Using Github for sharing research
  - 
 
 #### WildMouse
-  - 
+  -  README as repot
+  - adding images in md
   
 #### MLH1repo
-  -
+  - pandoc for inserting text files
 
 #### ImageAnaylsis
-  -
+  - macro -- pipeline
+  - juvinille vs mature comparison
 
