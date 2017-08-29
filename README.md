@@ -14,7 +14,6 @@ Using Github for sharing research
 
 #### Discussion
   - problems / barriers in using
-  - aspirations / dream uses
   - potential set backs (too many repos to keep track of..)
   
 ### Teaching Objectives
