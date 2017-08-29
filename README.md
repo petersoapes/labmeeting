@@ -2,9 +2,9 @@
 Using Github for sharing research
 
 ### Outline
--- Review of github.  -- version control, sharing files, connecting folders on seperate machines
--- Possible uses (Karl's make a full webpage)
--- Display results in README.md (share and store data files)
+  - Review of github.  -- version control, sharing files, connecting folders on seperate machines
+  - Possible uses (Karl's make a full webpage)
+  - Display results in README.md (share and store data files)
 
 -- AP's examples
   - wild mouse catching
@@ -20,7 +20,6 @@ Using Github for sharing research
  - README.md as a report page
  - insert images in md page
  - link together md and txt files
- - 
 
 #### WildMouse
   -  README as repot
